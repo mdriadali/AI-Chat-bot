@@ -62,9 +62,7 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 - Google Cloud account with Gemini API access
 - API key for Gemini AI
-```bash
-npm start
-```
+
 
 ## Features
 
